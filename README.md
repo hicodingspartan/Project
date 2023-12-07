@@ -9,7 +9,7 @@ Welcome to the AWS Cloud Projects Showcase repository! Explore various projects 
   - [🛠️ Prerequisites](#prerequisites)
   - [🚀 Setup](#setup)
 - [🌐 Projects](#projects)
-  - [🌟 Project 1: Project Name](#project-1-project-name)
+  - [🌟 Project 1: Project Name](https://github.com/hicodingspartan/project1/tree/afd0a9e680d51d7e9f3639a1e47a446caed3951e)
   - [🌟 Project 2: Project Name](#project-2-project-name)
   - [🌟 Project 3: Project Name](#project-3-project-name)
 - [📚 Documentation](#documentation)
